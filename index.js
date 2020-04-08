@@ -1,1 +1,1 @@
-function takeANumber (numOfPeople , Name)
+function takeANumber (numOfPeople)
